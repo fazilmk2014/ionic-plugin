@@ -1,29 +1,21 @@
 {
-  "name": "ionic-plugin-keyboard",
+  "name": "ionic-plugin",
   "version": "1.0.5",
   "cordova": {
-    "id": "ionic-plugin-keyboard",
+    "id": "ionic-plugin",
     "platforms": [
-      "android",
-      "ios",
-      "blackberry10",
-      "wp8",
-      "windows"
+      "android"
     ]
   },
   "description": "Ionic Keyboard Plugin",
-  "repository": "https://github.com/driftyco/ionic-plugins-keyboard.git",
-  "issue": "https://github.com/driftyco/ionic-plugins-keyboard/issues",
+  "repository": "https://github.com/fazilmk2014/ionic-plugin.git",
+  "issue": "https://github.com/fazilmk2014/ionic-plugin/issues",
   "keywords": [
     "ionic",
     "cordova",
     "keyboard",
     "ecosystem:cordova",
-    "cordova-android",
-    "cordova-ios",
-    "cordova-blackberry10",
-    "cordova-wp8",
-    "cordova-windows"
+    "cordova-android"
   ],
   "author": "Ionic",
   "license": "Apache 2.0"
